@@ -1,0 +1,29 @@
+# Entornos virtuales
+.env/
+venv/
+ENV/
+env/
+
+# Archivos de configuración sensibles
+.env
+*.env
+
+# Python compilado
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Directorios de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de paquetes instalados (si los descargaste localmente)
+*.egg-info/
+dist/
+build/
