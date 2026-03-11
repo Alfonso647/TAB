@@ -1,0 +1,6 @@
+,CATEGORÍA,IMAGEN 1,IMAGEN 2,BETA_0,BETA_F,BETA_RATE,I0,ACC BASE,BETA_0_2,BETA_F_2,BETA_RATE_2,I0_2,ACC AFINADO
+0,Car,./data/WillowObject/WILLOW-ObjectClass/Car/Cars_024a.png,./data/WillowObject/WILLOW-ObjectClass/Car/Cars_028b.png,0.5,10.0,1.075,4,40.0,3.0,25.0,1.075,4,80.0
+1,Duck,./data/WillowObject/WILLOW-ObjectClass/Duck/060_0001.png,./data/WillowObject/WILLOW-ObjectClass/Duck/060_0030.png,0.5,10.0,1.075,4,10.0,2.5,35.0,1.12,4,70.0
+2,Face,./data/WillowObject/WILLOW-ObjectClass/Face/image_0132.png,./data/WillowObject/WILLOW-ObjectClass/Face/image_0208.png,0.5,10.0,1.075,4,20.0,3.8,90.0,1.13,3,20.0
+3,Motorbike,./data/WillowObject/WILLOW-ObjectClass/Motorbike/Motorbikes_015b.png,./data/WillowObject/WILLOW-ObjectClass/Motorbike/Motorbikes_034.png,0.5,10.0,1.075,4,30.0,2.5,35.0,1.05,2,100.0
+4,Winebottle,./data/WillowObject/WILLOW-ObjectClass/Winebottle/246_0001.png,./data/WillowObject/WILLOW-ObjectClass/Winebottle/246_0079.png,0.5,10.0,1.075,4,20.0,2.5,45.0,1.08,4,60.0
